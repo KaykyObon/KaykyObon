@@ -1,9 +1,9 @@
-# Hi. My name is Kayky Silveira.
+# 👋 Hi. My name is Kayky Silveira.
 
 ## DevOps Engineer
 
 ### Experience:
-- Staging as DevOps/SRE with Cloud Native technologies and many other.
+Currently working as a DevOps/SRE in staging environments, using Cloud Native technologies and automating everything I can. Focused on delivering reliable, observable, and scalable infrastructure.
 
 ### Certifications:
 
@@ -18,10 +18,10 @@
 - **CI/CD & Version Control:**
 
 **Aditional Information**
+- 🌍 Living in Brazil
 - LinkedIn: [Kayky Silveira](https://www.linkedin.com/in/kassdev/)
-- Feel free to reach out.
-- Living in Brazil
-- Learning as much DevOps tools as I can non-stop :haha
-- I'm open to collaborating on DevOps Projects
+- 🤝 Open to collaborating on DevOps projects and cloud automation
+- 🧠 Always learning (non-stop!), exploring new tools, and improving skills
+- 😄 Let’s connect, share knowledge, or just talk about tech
 
-
+> “Automate the boring stuff, understand the complex stuff, and share the cool stuff.”
