@@ -33,7 +33,7 @@
 - **Programming/Scripting:** Python, Go, Bash
 - **CI/CD & Version Control:** Git
 - **Auxiliary Tools:** Vim
-
+- **Framework:** Scrum, Kanban, Scrumban, ITIL
 ---
 ### Experience:
 Currently working as a DevOps/SRE in staging environments, using Cloud Native technologies and automating everything I can. Focused on delivering reliable, observable, and scalable infrastructure.
