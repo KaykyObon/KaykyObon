@@ -22,7 +22,7 @@
 ---
 ### Certifications:
 <div>
-<a href="https://www.credly.com/users/kayky-silveira/badges#credly" target="_blank"><img align="center" alt="Credly" height="30" width="40" src="./.assets/credly-svgrepo-com.svg" />
+<a href="https://www.credly.com/users/kayky-silveira/badges#credly" target="_blank"><img align="center" alt="Credly" height="60" width="80" src="./.assets/credly-svgrepo-com.svg" />
 <div></a>
 
 ---
