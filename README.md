@@ -34,9 +34,9 @@
 - **Messaging Systems:**
 - **Containerization & Orchestration:** Docker
 - **Programming/Scripting:** Python, Go, Bash
-- **CI/CD & Version Control:** Git
+- **CI/CD & Version Control:** GitHub Actions, CircleCI, Git
 - **Auxiliary Tools:** Vim
-- **Framework:** Scrum, Kanban, Scrumban, ITIL
+- **Framework:** GitOps, SDLC, Scrum, Kanban
 ---
 ### Experience:
 Currently working as a DevOps/SRE in staging environments, using Cloud Native technologies and automating everything I can. Focused on delivering reliable, observable, and scalable infrastructure.
@@ -50,8 +50,8 @@ Currently working as a DevOps/SRE in staging environments, using Cloud Native te
 
 ---
 - 🌍 Living in Brazil
-- 🤝 Open to collaborating on DevOps projects and cloud automation
-- 🧠 Always learning (non-stop!), exploring new tools, and improving skills
-- 😄 Let’s connect, share knowledge, or just talk about tech
+- Open to collaborating
+- Always learning and improving
+- Let’s connect, share knowledge, or just talk about tech
 
-> “Automate the boring stuff, understand the complex stuff, and share the cool stuff.”
+> “Understand, automate, share.”
